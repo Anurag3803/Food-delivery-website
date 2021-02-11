@@ -5,5 +5,5 @@
 - CSS
 
 
-## [Live Site](https://varun-calculator.netlify.app)
-  https://varun-calculator.netlify.app
+## [Live Site](https://my-online-meals.netlify.app)
+ https://my-online-meals.netlify.app/
