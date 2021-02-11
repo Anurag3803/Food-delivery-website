@@ -1,5 +1,5 @@
 # My Online Meals       <img align="center" width="50" height="50" src="img/icon.jpg">
-### A simple calculator built using HTML, CSS, and JavaScript 
+### Food  Delivery Website Template using Pure HTML and CSS 
 ## Tech Stack used: 
 - HTML
 - CSS
